@@ -21,3 +21,7 @@ It was selected a Sample Rate of 512 Hz for each EMG Signal. <br />
 threeSubjects.mat contains three matrix with many rows and 2 columns, respectively for: <br />
 • Gastrocnemius muscle signal variations during said activites <br />
 • Tibial muscle signal variations during said activities <br />
+## THRESHOLD.mat & FILTERED.mat: <br />
+Are matrixes that contain respectively:
+• Computed thresholds for v1 code
+• Computed emg_rms for each of the subjects (1 4 5) (from the filtered emgs)
