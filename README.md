@@ -15,9 +15,9 @@ During the experiment there were collected fisiological data using Shimmer senso
 For this exercise we are interested in the "Walking while following a certain rythm" task. <br />
 Participants were asked to follow a certain route and there were considered three different velocities (low mid high). <br />
 We need to understand how the three velocities are matching with the three subjects (subj1 subj4 subj5) inside <br />
-threeSubjects.m and how many steps did they take inside their given time. <br />
+threeSubjects.mat and how many steps did they take inside their given time. <br />
 It was selected a Sample Rate of 512 Hz for each EMG Signal. <br />
-## Structure of threeSubjects.m: <br />
-threeSubjects.m contains three matrix with many rows and 2 columns, respectively for: <br />
+## Structure of threeSubjects.mat: <br />
+threeSubjects.mat contains three matrix with many rows and 2 columns, respectively for: <br />
 • Gastrocnemius muscle signal variations during said activites <br />
 • Tibial muscle signal variations during said activities <br />
