@@ -22,6 +22,6 @@ threeSubjects.mat contains three matrix with many rows and 2 columns, respective
 • Gastrocnemius muscle signal variations during said activites <br />
 • Tibial muscle signal variations during said activities <br />
 ## THRESHOLD.mat & FILTERED.mat: <br />
-Are matrixes that contain respectively:
-• Computed thresholds for v1 code
-• Computed emg_rms for each of the subjects (1 4 5) (from the filtered emgs)
+Are matrixes that contain respectively: <br />
+• Computed thresholds for v1 code <br />
+• Computed emg_rms for each of the subjects (1 4 5) (from the filtered emgs) <br />
