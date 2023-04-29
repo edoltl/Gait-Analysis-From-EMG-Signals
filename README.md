@@ -1,7 +1,7 @@
 # Gait-Analysis-From-EMG-Signals <br />
 Gait Analysis over three subjects to detect steps frequency, how many steps were taken and how long they walked. <br />
 ## Description of the context.
-threeSubjects.mat are a collection of data obtained from an experiment at University Of Tokyo with the <br />
+threeSubjects.mat is a collection of data obtained from an experiment at University Of Tokyo with the <br />
 purpose to collect "Walkability" infos. <br />
 Three experimental conditions have been considered: <br />
 • Walking while avoiding obstacles <br />
